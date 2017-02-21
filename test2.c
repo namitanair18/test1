@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-	printf("Hello");
+/usr/bin/bash: :make: command not found
 }
 
